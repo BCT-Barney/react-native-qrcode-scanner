@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
+    "react-native-camera": "https://github.com/BCT-Barney/react-native-camera",
     "react-native-permissions": "^3.8.0"
   },
   "devDependencies": {
